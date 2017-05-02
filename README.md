@@ -26,8 +26,6 @@ LibreOffice (Gratuito):</h4>
 Ubuntu e o LIbre Office com exemplos práticos.
 <a href="https://www.udemy.com/linux-ubuntu-e-libre-office">https://www.udemy.com/linux-ubuntu-e-libre-office</a>.</p>
 <hr/>
-
-=======
 <br/>
 </body>
 </html>
