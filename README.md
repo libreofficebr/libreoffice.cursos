@@ -4,8 +4,6 @@
 </head>
 <body lang="pt-BR" dir="ltr">
 <h1>Cursos sobre LibreOffice</h1>
-<h1><font size="4" style="font-size: 16pt">Repositório de Cursos com
-a temática &quot;LibreOffice&quot;:</font></h1>
 <hr/>
 <h4 class="western">Repositório de Cursos com a temática
 &quot;LibreOffice&quot;:</h4>
