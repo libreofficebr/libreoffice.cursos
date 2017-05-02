@@ -1,20 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 5.1.6.2 (Linux)"/>
-	<meta name="created" content="00:00:00"/>
-	<meta name="changed" content="2017-04-29T19:02:34.388048653"/>
-	<style type="text/css">
-		h4.cjk { font-family: "Noto Sans CJK SC Regular" }
-		h4.ctl { font-family: "FreeSans" }
-	</style>
 </head>
 <body lang="pt-BR" dir="ltr">
 <h1>Cursos sobre LibreOffice</h1>
-<h4 class="western">Repositório de Cursos com a temática
-&quot;LibreOffice&quot;:</h4>
+<h1><font size="4" style="font-size: 16pt">Repositório de Cursos com
+a temática &quot;LibreOffice&quot;:</font></h1>
 <hr/>
 
 <h4 class="western">- Cursos LibreOffice SERPRO:</h4>
@@ -28,9 +19,12 @@ E tudo isso gratuitamente.
 </p>
 <hr/>
 
-<h4 class="western" align="justify"><br/>
-<br/>
+<h4 class="western" align="justify">- Curso Ubuntu Linux e
+LibreOffice (Gratuito):</h4>
+<p align="justify">Aprenda a utilizar o sistema operacional Linux
+Ubuntu e o LIbre Office com exemplos práticos.
+<a href="https://www.udemy.com/linux-ubuntu-e-libre-office">https://www.udemy.com/linux-ubuntu-e-libre-office</a>.</p>
+<hr/>
 
-</h4>
 </body>
 </html>
